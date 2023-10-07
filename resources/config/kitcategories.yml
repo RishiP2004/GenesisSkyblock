@@ -1,0 +1,38 @@
+categories:
+    Donators:
+        tier: 0
+        icon:
+            material: bed
+            lore:
+                - '&r'
+                -  '&r&7Kits unlocked through rank purchases'
+                -  '&r&7but are not optimal for on-the-spot PvP.'
+                - '&d'
+                - '&r&eshop.genesispvp.net'
+            name: '&r&e&lGenesis Ranks'
+    Gkits:
+        tier: 2
+        icon:
+            material: blaze_powder
+            lore:
+                - '&d'
+                - '&r&7Unleash your inner strength with the'
+                - '&r&7mighty gkits these exclusive kits'
+                - '&r&7are crafted for the most seasoned'
+                - '&r&7pvpers.'
+                - '&d'
+                - '&r&dshop.genesispvp.net'
+            name: "&r&d&lGod Kit's"
+    Mastery:
+        tier: 3
+        icon:
+            material: chest
+            lore:
+                - '&4'
+                - '&r&7Unlock powerful kits designed for the'
+                - '&r&7most poweful warriors, mastering'
+                - '&r&7the art of combat.'
+                - '&d'
+                - '&r&4shop.genesispvp.net'
+            name: "&r&4&lMastery Kits"
+

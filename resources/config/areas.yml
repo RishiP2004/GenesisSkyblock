@@ -1,0 +1,17 @@
+---
+- name: "Spawn"
+  pos1: "467, 84, 209, world"
+  pos2: "102, 159, 340, world"
+  pvp: false
+  edit: false
+  title: "&r&a(!) Safezone &2- &aPvP Disabled"
+  msg: "&r&a ~ Safezone - PvP is disabled here."
+
+- name: "Warzone"
+  pos1: "467, 84, 209, world"
+  pos2: "102, 159, 340, world"
+  pvp: false
+  edit: false
+  title: "&r&4(!) Warzone &c- &4PvP Enabled"
+  msg: "&r&4 ~ Warzone - PvP is enabled here."
+...

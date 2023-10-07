@@ -1,0 +1,18 @@
+---
+database:
+  type: sqlite
+  sqlite:
+    file: data.sqlite
+  mysql:
+    host: 127.0.0.1
+    username: root
+    password: ""
+    schema: Core
+  worker-limit: 4
+
+database-is:
+  type: sqlite
+  sqlite:
+    file: data-is.sqlite
+  worker-limit: 4
+...

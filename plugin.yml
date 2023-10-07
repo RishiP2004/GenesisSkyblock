@@ -1,0 +1,5 @@
+name: Skyblock
+main: sb\Skyblock
+author: Rxchi
+version: 2.0
+api: 5.0.0
