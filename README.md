@@ -1,2 +1,2 @@
 # GenesisSkyblock
-Genesis' Old Skyblock Core.
+Genesis' Old Skyblock Core plugin for PocketMine-MP server software.
